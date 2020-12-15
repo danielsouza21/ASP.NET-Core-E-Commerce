@@ -2,7 +2,7 @@
 Criando um E-Commerce através de ASP.NET Core, Entity Framework e SQL Server.
 
 <h4 align="center">
-    <img alt="ECommerceGif" title="ECommerceGif" src="./demonstração.gif" width="750px" />
+    <img alt="ECommerceGif" title="ECommerceGif" src="./Demonstração.gif" width="750px" />
 </h4>
 
 > Curso ASP.NET Core da Alura.
